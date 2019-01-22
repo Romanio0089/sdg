@@ -13,5 +13,5 @@ Android Kitkat 4.4 minimum.
 
 # Sources
 
-Futurekids Suisse
-RoxGames (RoxG)
+Futurekids Suisse                                                                                       
+RoxGames (RoxG)           
