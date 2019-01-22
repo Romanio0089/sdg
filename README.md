@@ -10,3 +10,8 @@ Le jeu est disponible pour Windows, macOS, Linux et Android (Android en version 
 Windows : Windows 7 et supérieur. (Pas testé sur les versions inférieures)                      
 Mac OS X 10.9 minimum.                                                              
 Android Kitkat 4.4 minimum.
+
+# Sources
+
+Futurekids Suisse
+RoxGames (RoxG)
